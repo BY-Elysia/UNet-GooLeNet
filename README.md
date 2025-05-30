@@ -1,4 +1,4 @@
-# 基于UNet和GooLeNet和乳腺超声图像的智能筛查与分级
+# 基于UNet和GooLeNet和乳腺超声图像的智能分级
 
 # 第一阶段
 
